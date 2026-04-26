@@ -56,6 +56,7 @@ The platform simulates a small freelance marketplace similar to Fiverr, where us
 ---
 
 ## Project Structure
+```
 Web-Project/
 │
 ├── auth/ (login and register system)
@@ -74,7 +75,7 @@ Web-Project/
 ├── Service.php (service logic file)
 │
 ├── dbschema_yourNumber.sql (database schema file)
-
+```
 ---
 
 ## Technologies Used
