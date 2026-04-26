@@ -56,24 +56,25 @@ The platform simulates a small freelance marketplace similar to Fiverr, where us
 ---
 
 ## Project Structure
-Web Project/
+Web-Project/
 │
-├── auth/ → login and register system
-├── cart/ → cart management system
-├── checkout/ → checkout logic
-├── css/ → CSS styling files
-├── includes/ → shared PHP components
-├── orders/ → order management pages
-├── services/ → service management pages
-├── uploads/ → uploaded files storage
+├── auth/ (login and register system)
+├── cart/ (cart management)
+├── checkout/ (checkout logic)
+├── css/ (CSS styling files)
+├── includes/ (shared PHP components)
+├── orders/ (order management pages)
+├── services/ (service management pages)
+├── uploads/ (uploaded files storage)
 │
-├── index.php → homepage
-├── profile.php → user profile page
-├── config.php → configuration settings
-├── db.php.inc → database connection file
-├── Service.php → service logic file
+├── index.php (homepage)
+├── profile.php (user profile page)
+├── config.php (configuration settings)
+├── db.php.inc (database connection file)
+├── Service.php (service logic file)
 │
-├── dbschema_yourNumber.sql → database schema file
+├── dbschema_yourNumber.sql (database schema file)
+
 ---
 
 ## Technologies Used
