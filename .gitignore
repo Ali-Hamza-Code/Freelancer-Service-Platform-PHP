@@ -1,0 +1,6 @@
+uploads/*
+!.gitkeep
+.env
+node_modules/
+vendor/
+*.log
